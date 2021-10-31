@@ -9,6 +9,7 @@ module.exports = {
     filename: "bundle.js",
     environment: {
       arrowFunction: false,
+      const: false,
     }
   },
   mode: 'development',
